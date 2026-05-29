@@ -152,7 +152,7 @@ Built React frontend for healthcare applications — scalable, user-friendly pat
 
 <br/>
 
-*"I alone level up."*
+*"Give up on your dreams and die."* — Levi Ackerman
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a0a2e,100:0a0a1a&height=80&section=footer" />
 
