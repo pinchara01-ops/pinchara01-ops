@@ -17,9 +17,8 @@
 ```js
 {
   "name"        : "Inchara P",
-  "role"        : "Full-Stack Engineer  ×  Security Researcher",
   "education"   : "B.E. Cyber Security · RVCE Bengaluru",
-  "building"    : "YouLeft · Selected YC Demo Day 2026",
+  "building"    : "YouLeft" ,
   "contact"     : "pinchara01@gmail.com"
 }
 ```
@@ -72,7 +71,7 @@ Production-grade distributed rate limiter — 62,000 req/s throughput, 3.8ms p95
 </details>
 
 <details open>
-<summary><b>🧠 YouLeft — AI Memory Layer</b> &nbsp;<code>YC Demo Day 2026</code></summary>
+<summary><b>🧠 YouLeft — AI Memory Layer</b> &nbsp;<code></code></summary>
 <br/>
 
 Chrome extension (Plasmo) routing captured browsing data through TinyFish AI → Gemini classifier → Google Drive. OAuth 2.0 + PKCE with RS256 JWT, AES-256 encrypted tokens, MCP server on Cloud Run for natural-language queries over browsing history via Claude Desktop. Microservices on GCP — Cloud Tasks, Cloud SQL, Secret Manager.
@@ -91,15 +90,6 @@ Multi-agent coordination system on Google Cloud AI for adaptive zone-based crowd
 
 </details>
 
-<details>
-<summary><b>🏥 Kyure Health — React Frontend</b></summary>
-<br/>
-
-React frontend for a healthcare platform — scalable, accessible, production-deployed patient-facing interfaces.
-
-`React` `TypeScript` · *Jun–Aug 2025*
-
-</details>
 
 ---
 
@@ -114,19 +104,6 @@ Built a Business Continuity Management System using Python, FastAPI, PostgreSQL,
 Built React frontend for healthcare applications — scalable, user-friendly patient-facing interfaces.
 
 ---
-
-## Achievements
-
-| | |
-|---|---|
-| 👑 | **YC Demo Day 2026** — Building YouLeft |
-| 🥇 | **Top 15** · Google Cloud Agentic AI Hackathon 2025 · 9,100+ submissions |
-| 🥇 | **1st Place** · AIT 6-Hour Hackathon 2025 · InstaFix |
-| 🥇 | **1st Place** · MVJ Hackathon 2025, Bangalore |
-
----
-
-<div align="center">
 
 ## Stats
 
