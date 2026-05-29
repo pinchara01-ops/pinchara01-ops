@@ -1,9 +1,18 @@
 <div align="center">
 
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a0a2e,100:0d1b2a&height=200&section=header&text=INCHARA%20P&fontSize=60&fontColor=7b6fff&fontAlignY=38&desc=✦%20HUNTER%20%7C%20SHADOW%20ARCHITECT%20✦&descSize=16&descAlignY=60&descColor=5ba3ff&animation=fadeIn" />
+<!-- ═══════════════════════════════════════════════════════════
+     ANIMATED BANNER — replace src with your GIF/image URL
+     Recommended size: 1200×400px, dark background
+     Free hosts: imgbb.com · imgur.com · GitHub raw link
+     ═══════════════════════════════════════════════════════════ -->
+<img src="YOUR_BANNER_GIF_URL_HERE" alt="Solo Leveling — System Active" width="100%" />
 
-<!-- SYSTEM AWAKENING -->
+<!-- Fallback capsule header (remove once you have the banner GIF) -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a0a2e,100:0d1b2a&height=200&section=header&text=INCHARA%20P&fontSize=60&fontColor=7b6fff&fontAlignY=38&desc=✦%20HUNTER%20%7C%20SHADOW%20ARCHITECT%20✦&descSize=16&descAlignY=60&descColor=5ba3ff&animation=fadeIn" /> -->
+
+<br/>
+
+<!-- SYSTEM NOTIFICATION -->
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                    ⚠  SYSTEM NOTIFICATION  ⚠                    ║
@@ -15,12 +24,23 @@
 
 <br/>
 
-<!-- RANK BADGE -->
+<!-- RANK BADGES -->
 <img src="https://img.shields.io/badge/RANK-S--CLASS%20HUNTER-7b6fff?style=for-the-badge&labelColor=0a0a1a&color=7b6fff" />
 &nbsp;
 <img src="https://img.shields.io/badge/GUILD-YC%20Demo%20Day%202026-5ba3ff?style=for-the-badge&labelColor=0a0a1a&color=5ba3ff" />
 &nbsp;
 <img src="https://img.shields.io/badge/LOCATION-Bengaluru%2C%20IN-a855f7?style=for-the-badge&labelColor=0a0a1a&color=a855f7" />
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════
+     SYSTEM THEME MUSIC BUTTON
+     Replace YOUR_YOUTUBE_TRACK_ID with the
+     YouTube video ID (e.g. dQw4w9WgXcQ)
+     ═══════════════════════════════════════════ -->
+<a href="https://www.youtube.com/watch?v=YOUR_YOUTUBE_TRACK_ID">
+  <img src="https://img.shields.io/badge/🔊%20ACTIVATE%20SYSTEM%20THEME-PLAY%20NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a0a1a" alt="Play Solo Leveling Theme" />
+</a>
 
 </div>
 
@@ -50,51 +70,42 @@
 
 ## ⚔ ABILITY STATS ⚔
 
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
 **▸ Languages**
-```
-C++            ████████████  Expert
-Python         ████████████  Expert
-JavaScript     ███████████░  Advanced
-TypeScript     ██████████░░  Advanced
-Kotlin         ████████░░░░  Proficient
-```
+
+<img src="https://img.shields.io/badge/C++-Expert-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/Kotlin-Proficient-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0a0a1a" />
+
+<br/><br/>
 
 **▸ Databases**
-```
-PostgreSQL     ████████████  Expert
-Redis          ███████████░  Advanced
-Firebase       ████████░░░░  Proficient
-```
 
-</td>
-<td valign="top" width="50%">
+<img src="https://img.shields.io/badge/PostgreSQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/Redis-Advanced-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/Firebase-Proficient-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0a0a1a" />
 
-**▸ Infrastructure & Tools**
-```
-Docker         ████████████  Expert
-Google Cloud   ███████████░  Advanced
-Git / GitHub   ████████████  Expert
-gRPC           █████████░░░  Advanced
-Postman        ████████████  Expert
-```
+<br/><br/>
+
+**▸ Infrastructure & Cloud**
+
+<img src="https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/Google%20Cloud-Advanced-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/gRPC-Advanced-7b6fff?style=for-the-badge&logo=grpc&logoColor=white&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/Postman-Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a0a1a" />
+
+<br/><br/>
 
 **▸ Frameworks**
-```
-FastAPI        ████████████  Expert
-React / Next   ███████████░  Advanced
-Spring Boot    █████████░░░  Advanced
-LangChain      ████████░░░░  Proficient
-```
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/FastAPI-Expert-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/React%20%2F%20Next.js-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/Spring%20Boot-Advanced-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0a0a1a" />
+<img src="https://img.shields.io/badge/LangChain-Proficient-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0a0a1a" />
+
+</div>
 
 ---
 
@@ -213,6 +224,23 @@ Built complete React frontend for a healthcare platform — scalable, user-frien
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinchara01-ops&theme=midnight-purple&hide_border=true&background=0a0a1a&ring=7b6fff&fire=a855f7&currStreakLabel=5ba3ff&sideLabels=c9d1d9&dates=6e7681&stroke=7b6fff" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎵 CURRENTLY RESONATING WITH
+
+<!-- ══════════════════════════════════════════════════════════
+     SPOTIFY NOW PLAYING
+     Setup: https://github.com/novatorem/novatorem
+     1. Deploy to Vercel
+     2. Replace YOUR_VERCEL_APP_URL with your deployment URL
+     3. Replace YOUR_SPOTIFY_USER_ID with your Spotify username
+     ══════════════════════════════════════════════════════════ -->
+[![Spotify](https://YOUR_VERCEL_APP_URL/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
 
 </div>
 
