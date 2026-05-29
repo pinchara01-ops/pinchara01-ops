@@ -206,8 +206,6 @@ Built complete React frontend for a healthcare platform — scalable, user-frien
 | 🥇 | **Top 15 · Google Cloud Hackathon 2025** | 9,100+ submissions |
 | 🥇 | **1st Place · AIT 6-Hour Hackathon 2025** | InstaFix — AI + Blockchain + Stripe |
 | 🥇 | **1st Place · MVJ Hackathon 2025** | Bangalore |
-| 🎓 | **CGPA 8.87** | B.E. Cyber Security · RVCE |
-| 📊 | **LeetCode 280+ problems** | Competitive Programming |
 
 </div>
 
