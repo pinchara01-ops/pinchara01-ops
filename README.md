@@ -107,13 +107,11 @@ Built React frontend for healthcare applications — scalable, user-friendly pat
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=pinchara01-ops&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&title_color=7b6fff&icon_color=5ba3ff&text_color=c9d1d9&ring_color=7b6fff" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinchara01-ops&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&title_color=7b6fff&text_color=c9d1d9&langs_count=8" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pinchara01-ops&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pinchara01-ops&theme=midnight-purple&hide_border=true&background=0a0a1a&ring=7b6fff&fire=a855f7&currStreakLabel=5ba3ff&sideLabels=c9d1d9&dates=6e7681&stroke=7b6fff" />
+<img src="https://streak-stats.demolab.com/?user=pinchara01-ops&theme=midnight-purple&hide_border=true&background=0a0a1a&ring=7b6fff&fire=a855f7&currStreakLabel=5ba3ff&sideLabels=c9d1d9&dates=6e7681&stroke=7b6fff" />
 
 </div>
 
