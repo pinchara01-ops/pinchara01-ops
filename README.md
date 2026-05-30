@@ -105,9 +105,11 @@ Built React frontend for healthcare applications — scalable, user-friendly pat
 
 ---
 
+<div align="center">
+
 ## Stats
 
-<img src="https://github-profile-trophy.vercel.app/?username=pinchara01-ops&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pinchara01-ops&theme=react-dark&hide_border=true&bg_color=0a0a1a&color=7b6fff&line=5ba3ff&point=7b6fff&area=true" />
 
 <br/><br/>
 
