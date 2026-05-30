@@ -10,7 +10,7 @@
 {
   "name"        : "Inchara P",
   "education"   : "B.E. Cyber Security · RVCE Bengaluru",
-  "building"    : "YouLeft" ,
+  "building"    : "YouLeft",
   "contact"     : "pinchara01@gmail.com"
 }
 ```
@@ -52,48 +52,117 @@
 
 ## Projects
 
-<details open>
-<summary><b>⚡ RateForge — Distributed Rate Limiter</b></summary>
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="border: 1px solid #30363d; padding: 16px;">
+
+**RateForge**  
+Distributed Rate Limiter
+
 <br/>
 
-Production-grade distributed rate limiter — 62,000 req/s throughput, 3.8ms p95 latency on a single node. Token bucket, sliding window, and fixed window algorithms over Redis Lua scripts. Hot-key mitigation, circuit breaker pattern, gRPC API, live analytics dashboard, policy simulator, Kotlin client SDK. Deployed on Fly.io + Vercel.
+Production-grade distributed rate limiter — 62,000 req/s throughput, 3.8ms p95 latency. Token bucket, sliding window, and fixed window over Redis Lua scripts. gRPC API, analytics dashboard, Kotlin client SDK.
 
-`Kotlin` `Spring Boot` `Redis` `PostgreSQL` `gRPC` `TypeScript` `Docker` · [GitHub](https://github.com/pinchara01-ops/ratelimiter)
-
-</details>
-
-<details open>
-<summary><b>🧠 YouLeft — AI Memory Layer</b></summary>
 <br/>
 
-Chrome extension (Plasmo) routing captured browsing data through TinyFish AI → Gemini classifier → Google Drive. OAuth 2.0 + PKCE with RS256 JWT, AES-256 encrypted tokens, MCP server on Cloud Run for natural-language queries over browsing history via Claude Desktop. Microservices on GCP — Cloud Tasks, Cloud SQL, Secret Manager.
+`Kotlin` `Spring Boot` `Redis` `PostgreSQL` `gRPC` `Docker`
 
-`Next.js` `Plasmo` `Python` `GCP Cloud Run` `PostgreSQL` `OAuth 2.0` `MCP` · [youleft.site](https://youleft.site)
-
-</details>
-
-<details>
-<summary><b>🌐 Crowd Intelligence Platform</b> &nbsp;<code>Top 15 · Google Cloud Hackathon 2025</code></summary>
 <br/>
 
-Multi-agent coordination system on Google Cloud AI for adaptive zone-based crowd incident prevention. Top 15 of 9,100+ submissions at the Google Cloud Agentic AI Hackathon 2025.
+[GitHub](https://github.com/pinchara01-ops/ratelimiter)
 
-`Google Cloud AI` `Multi-Agent Systems` · [GitHub](https://github.com/pinchara01-ops/crowdmanagement)
+</td>
+<td width="50%" valign="top" style="border: 1px solid #30363d; padding: 16px;">
 
-</details>
+**YouLeft**  
+AI Memory Layer
 
+<br/>
+
+Chrome extension routing browsing data through AI classification into Google Drive. OAuth 2.0 + PKCE, AES-256 encrypted tokens, MCP server on Cloud Run for natural-language queries over browsing history.
+
+<br/>
+
+`Next.js` `Plasmo` `Python` `GCP` `PostgreSQL` `MCP`
+
+<br/>
+
+[youleft.site](https://youleft.site)
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top" style="border: 1px solid #30363d; padding: 16px;">
+
+**Crowd Intelligence Platform**  
+Google Cloud Agentic AI Hackathon 2025
+
+<br/>
+
+Multi-agent coordination on Google Cloud AI for adaptive zone-based crowd incident prevention. Top 15 of 9,100+ submissions.
+
+<br/>
+
+`Google Cloud AI` `Multi-Agent Systems`
+
+<br/>
+
+[GitHub](https://github.com/pinchara01-ops/crowdmanagement)
+
+</td>
+<td width="50%" valign="top" style="border: 1px solid #30363d; padding: 16px;">
+
+**Kyure Health**  
+Healthcare Frontend
+
+<br/>
+
+React frontend for a healthcare platform — scalable, accessible, production-deployed patient-facing interfaces.
+
+<br/>
+
+`React` `TypeScript`
+
+<br/>
+
+Jun 2025 – Aug 2025
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
-**Full-Stack Developer Intern · EY Catalyst Project** &nbsp;`Oct 2025 – Dec 2025`
+<table width="100%">
+<tr>
+<td valign="top" style="border: 1px solid #30363d; padding: 16px;">
 
-Built a Business Continuity Management System using Python, FastAPI, PostgreSQL, React, and TypeScript. AI-powered content generation with Grok API and LangChain. RESTful APIs with SQLAlchemy ORM, RBAC + JWT authentication.
+**Full-Stack Developer Intern** · EY Catalyst Project  
+`Oct 2025 – Dec 2025`
 
-**Frontend Developer Intern · Kyure Health** &nbsp;`Jun 2025 – Aug 2025`
+<br/>
+
+Built a Business Continuity Management System with Python, FastAPI, PostgreSQL, React, and TypeScript. AI content generation with Grok API and LangChain. RESTful APIs, SQLAlchemy ORM, RBAC + JWT auth.
+
+</td>
+</tr>
+<tr><td><br/></td></tr>
+<tr>
+<td valign="top" style="border: 1px solid #30363d; padding: 16px;">
+
+**Frontend Developer Intern** · Kyure Health  
+`Jun 2025 – Aug 2025`
+
+<br/>
 
 Built React frontend for healthcare applications — scalable, user-friendly patient-facing interfaces.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -121,7 +190,7 @@ Built React frontend for healthcare applications — scalable, user-friendly pat
 
 <br/>
 
-*"Give up on your dreams and die."* - Levi Ackerman
+*"Give up on your dreams and die."* — Levi Ackerman
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1a0a2e,100:0a0a1a&height=80&section=footer" />
 
