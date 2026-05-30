@@ -2,14 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/pinchara01-ops/pinchara01-ops/main/solo-leveling-cha-hae-in.gif" alt="Banner" width="100%" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/S--CLASS-HUNTER-7b6fff?style=for-the-badge&labelColor=0a0a1a&color=7b6fff" />
-&nbsp;
-<img src="https://img.shields.io/badge/YC-Demo%20Day%202026-5ba3ff?style=for-the-badge&labelColor=0a0a1a&color=5ba3ff" />
-&nbsp;
-<img src="https://img.shields.io/badge/Bengaluru-IN-a855f7?style=for-the-badge&labelColor=0a0a1a&color=a855f7" />
-
 </div>
 
 ---
@@ -71,7 +63,7 @@ Production-grade distributed rate limiter — 62,000 req/s throughput, 3.8ms p95
 </details>
 
 <details open>
-<summary><b>🧠 YouLeft — AI Memory Layer</b> &nbsp;<code></code></summary>
+<summary><b>🧠 YouLeft — AI Memory Layer</b></summary>
 <br/>
 
 Chrome extension (Plasmo) routing captured browsing data through TinyFish AI → Gemini classifier → Google Drive. OAuth 2.0 + PKCE with RS256 JWT, AES-256 encrypted tokens, MCP server on Cloud Run for natural-language queries over browsing history via Claude Desktop. Microservices on GCP — Cloud Tasks, Cloud SQL, Secret Manager.
